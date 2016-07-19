@@ -7,7 +7,7 @@ if( isset( $_GET['username'] ) AND $_GET['username'] != '' ):
 
 	$username = $_GET['username'];
 	$limit = ( isset( $_GET['count'] ) AND $_GET['count'] != '' ) ? $_GET['count'] : 2;
-	$consumerkey = "	WxsZptxGuvZFYZHI8NDX6zQQW";
+	$consumerkey = "WxsZptxGuvZFYZHI8NDX6zQQW";
 	$consumersecret = "ANuFsL3eZcq6rWG3fUI1hkO3CcV3iyoSwVuvNg9u73iwJC9Gik";
 	$accesstoken = "	3266470700-3DGLUPAYEE7o260rOtR8IWPJw9RwyiQCUmlSRGX";
 	$accesstokensecret = "ZNRzQ30ay8gtOa1q8gvCE182WWEvT0cNrGJYV2G4sFZhr";
