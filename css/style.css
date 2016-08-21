@@ -10772,7 +10772,6 @@ button.toast-close-button {
 #footer {
 	position: relative;
 	background-color: #EEE;
-	border-top: 5px solid rgba(0,0,0,0.2);
 }
 
 .device-lg.sticky-footer #top-bar,
