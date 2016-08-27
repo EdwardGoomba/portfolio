@@ -133,10 +133,10 @@ body {
 
 a {
 	text-decoration: none !important;
-	color: #1ABC9C;
+	color: #547980;
 }
 
-a:hover { color: #222; }
+a:hover { color: #594F4F; }
 
 a img { border: none; }
 
@@ -3084,7 +3084,7 @@ body:not(.stretched) .slider-parallax .slider-parallax-inner { left: auto; }
 	line-height: 1;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color: #333;
+	color: #594F4F;
 	font-size: 28px;
 	text-transform: uppercase;
 }
