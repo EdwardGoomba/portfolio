@@ -2590,7 +2590,7 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 
 .content-wrap {
 	position: relative;
-	padding: 80px 0px 0px 0px;
+	padding: 60px 0px 0px 0px;
 }
 
 #content .container { position: relative; }
